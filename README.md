@@ -20,9 +20,14 @@ My day-to-day work involves using Python, SQL (PostgreSQL), JavaScript, TypeScri
 # Hi! I'm Darwin Abarca 👋
 ## Economist | Data & Analytics Engineer | Business Developer
 
-<p align="center">
-  <img src="https://githubusercontent.com" alt="Darwin Abarca" width="140" height="140" style="border-radius: 50%;">
-</p>
+<img src="https://media.licdn.com/dms/image/v2/D4E03AQGnMGi2TiIaEw/profile-displayphoto-scale_400_400/B4EZ7vWyg6HMAg-/0/1782132192057?e=1786579200&v=beta&t=jppUAYyP8_dizk2PWALzGXw2plqj91oLUv__jbP7P30" alt="Darwin Abarca" align="left" width="140" height="140" style="border-radius: 50%; margin-right: 20px; margin-bottom: 20px;">
+
+# Darwin Miguel Abarca Vargas
+## Analytics Engineer | Quantitative Economist | Data Infrastructure
+
+I bridge the gap between **advanced data engineering** and **quantitative economic value**, transforming raw data infrastructure into production-ready analytical pipelines and strategic financial insights.
+
+<br clear="left"/>
 
 I work at the intersection of *quantitative economic theory, **advanced data analysis, and **front-end, back-end, and secure deployment engineering*.
 
