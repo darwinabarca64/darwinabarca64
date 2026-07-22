@@ -1,9 +1,4 @@
-# Hi! I'm Darwin Abarca 
-## Data & Analytics Engineer | Financial Economist
 
-### Barcelona, Spain
-
-## Professional Summary
 
 Senior Professional combining Quantitative Economics and Technical Data Engineering with 8 years of cumulative experience managing high-impact data initiatives. Proven track record including 5 years formulating social profitability models for the Peruvian public sector and 3 years managing real estate asset investment portfolios in Spain. Expert in aligning technical infrastructure with financial objectives, utilizing capital budgeting and regulatory analysis frameworks (Nassir Sapag Chain and W. Kip Viscusi) to ensure data projects deliver measurable ROI, strategic business ratios, and optimized KPIs.
 
